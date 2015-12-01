@@ -14,10 +14,45 @@ Get help when you're stuck, let us know what you think, or contribute to this do
 
 ## Ask a question ##
 - Post a question: MSDN Open Publishing Notification (msdnopn@microsoft.com) 
+- Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 
 ## Contribute to this site ##
 
 Follow the instruction on [Github](https://github.com/openpublish/docs).
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 
 ## Next pragraph created ##
 Tell me more your suggestions
