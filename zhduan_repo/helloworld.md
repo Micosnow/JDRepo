@@ -7,6 +7,10 @@ viewport: width=device-width, initial-scale=1.0
 # Connect #
 
 Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 
 ## Ask a question ##
 - Post a question: MSDN Open Publishing Notification (msdnopn@microsoft.com) 
