@@ -29,6 +29,22 @@ Get help when you're stuck, let us know what you think, or contribute to this do
 Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+- Post a question: MSDN Open Publishing Notification (msdnopn@microsoft.com) 
+- Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
 
 ## Contribute to this site ##
 
@@ -56,3 +72,23 @@ Get help when you're stuck, let us know what you think, or contribute to this do
 
 ## Next pragraph created ##
 Tell me more your suggestions
+- Post a question: MSDN Open Publishing Notification (msdnopn@microsoft.com) 
+- Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+Get help when you're stuck, let us know what you think, or contribute to this documentation. 
+
+## See Also
+
+Any links here
