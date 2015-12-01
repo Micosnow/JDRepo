@@ -96,7 +96,7 @@ Any links here
 ## Translation 
 
 TW case need update.
-
+You can try it again.
 
 ## Translation 
 
